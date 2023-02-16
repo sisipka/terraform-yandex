@@ -1,3 +1,0 @@
-#cloud-config
-runcmd:
-  - [ sh, -c, "echo '<img src='https://storage.yandexcloud.net/shestihin/devops.jpg'>' > /var/www/html/index.html" ]
